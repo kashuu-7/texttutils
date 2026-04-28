@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+.blank{
+  color: #a42c07;
+  text-transform: uppercase;
+  font-size: 32px;
+}
