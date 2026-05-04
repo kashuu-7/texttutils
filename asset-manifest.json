@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/texttutils/static/css/main.35308831.css",
-    "main.js": "/texttutils/static/js/main.ce182de8.js",
-    "static/js/453.fb5b013f.chunk.js": "/texttutils/static/js/453.fb5b013f.chunk.js",
-    "index.html": "/texttutils/index.html",
-    "main.35308831.css.map": "/texttutils/static/css/main.35308831.css.map",
-    "main.ce182de8.js.map": "/texttutils/static/js/main.ce182de8.js.map",
-    "453.fb5b013f.chunk.js.map": "/texttutils/static/js/453.fb5b013f.chunk.js.map"
+    "main.css": "/[https://kashuu-7.github.io/texttutils](https://kashuu-7.github.io/texttutils)/static/css/main.35308831.css",
+    "main.js": "/[https://kashuu-7.github.io/texttutils](https://kashuu-7.github.io/texttutils)/static/js/main.49d5dd2d.js",
+    "static/js/453.fb5b013f.chunk.js": "/[https://kashuu-7.github.io/texttutils](https://kashuu-7.github.io/texttutils)/static/js/453.fb5b013f.chunk.js",
+    "index.html": "/[https://kashuu-7.github.io/texttutils](https://kashuu-7.github.io/texttutils)/index.html",
+    "main.35308831.css.map": "/[https://kashuu-7.github.io/texttutils](https://kashuu-7.github.io/texttutils)/static/css/main.35308831.css.map",
+    "main.49d5dd2d.js.map": "/[https://kashuu-7.github.io/texttutils](https://kashuu-7.github.io/texttutils)/static/js/main.49d5dd2d.js.map",
+    "453.fb5b013f.chunk.js.map": "/[https://kashuu-7.github.io/texttutils](https://kashuu-7.github.io/texttutils)/static/js/453.fb5b013f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35308831.css",
-    "static/js/main.ce182de8.js"
+    "static/js/main.49d5dd2d.js"
   ]
 }
